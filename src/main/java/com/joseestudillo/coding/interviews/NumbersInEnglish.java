@@ -1,4 +1,4 @@
-package com.joseestudillo.coding;
+package com.joseestudillo.coding.interviews;
 
 /**
  * Facebook question for Data Engineer. How to read numbers in english.
