@@ -7,6 +7,7 @@ buildscript {
             url "https://plugins.gradle.org/m2/"
         }
     }
+
     dependencies {
         classpath "gradle.plugin.com.github.maiflai:gradle-scalatest:0.12"
     }
@@ -15,6 +16,7 @@ buildscript {
 apply plugin: 'scala'
 apply plugin: 'java'
 apply plugin: "com.github.maiflai.scalatest"
+
 
 sourceSets {
     main {
@@ -41,6 +43,7 @@ class versions {
     static scala = '2.11'
     static scalaLib = '2.11.7'
     static scalaLogging = '3.1.0'
+
     static play = '2.5.3'
     static log4j = '1.2.16'
     static junit = '4.8.1'
