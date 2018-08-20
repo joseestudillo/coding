@@ -1,4 +1,4 @@
-package com.joseestudillo.coding.interviews.ctci;
+package com.joseestudillo.coding.interviews;
 
 import java.util.Arrays;
 
