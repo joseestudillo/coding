@@ -10,7 +10,7 @@ import java.util.Map;
  *
  * @author Jose Estudillo
  */
-public class TrieImplementation {
+public class Tries {
 
 	public static class TrieRec {
 		TrieNodeRec root = new TrieNodeRec('*');

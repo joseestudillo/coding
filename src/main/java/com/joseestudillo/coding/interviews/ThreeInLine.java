@@ -1,6 +1,6 @@
-package com.joseestudillo.puzzles.interview;
+package com.joseestudillo.coding.interviews;
 
-public class InLine3 {
+public class ThreeInLine {
 
     public static void main(String[] args) {
         char[][] table = { { 'a', 'b', 'c' }, { 'd', 'e', 'f' }, { 'g', 'h', 'i' }, };

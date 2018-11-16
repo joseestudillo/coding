@@ -3,11 +3,9 @@ package com.joseestudillo.coding.basics;
 public class Sorting {
 
     public static void bubbleSort(int array[]) {
-        int i;
-        int j;
         int temp;
-        for(i = array.length - 1; i > 0; i--) {
-            for(j = 0; j < i; j++) {
+        for(int i = array.length - 1; i > 0; i--) {
+            for(int j = 0; j < i; j++) {
                 if(array[j] > array[j + 1]) {
                     temp = array[j];
                     array[j] = array[j + 1];

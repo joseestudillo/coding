@@ -2,7 +2,7 @@ package com.joseestudillo.puzzles.interview;
 
 import java.util.Arrays;
 
-public class ArraysClass {
+public class ArraysManipulation {
 
     public static final int N = 10;
 

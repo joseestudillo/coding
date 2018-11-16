@@ -3,7 +3,7 @@ package com.joseestudillo.coding.interviews;
 import java.util.Arrays;
 
 /**
- * Created on 13/09/2017.
+ * Array rotation
  *
  * @author Jose Estudillo
  */
